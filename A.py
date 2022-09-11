@@ -2,5 +2,7 @@ num=11212112
 str='Hello Git!!!!!!!!!!!!!!!!!'
 
 print(str)
-print("I am JYS. A")
-print("I am Yuhyun")
+for x in range(1, 11):
+    print("I am JYS", x)
+for x in range(1, 11):
+    print("I am Yuhyun",x)
