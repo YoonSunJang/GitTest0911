@@ -1,6 +1,6 @@
-num=1
-str='Hello Git!'
+num=11212112
+str='Hello Git!!!!!!!!!!!!!!!!!'
 
 print(str)
-print("I am JYS")
+print("I aaaam JYS")
 print("I am Yuhyun")
